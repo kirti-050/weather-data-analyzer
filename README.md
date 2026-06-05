@@ -20,6 +20,7 @@ A Python project that fetches real-time weather data using the wttr.in API and a
 ## Sample Output
 
 Temperature_C: 36
+Feels_Like_C: 35
 Humidity: 45
 Pressure: 999
 Wind Speed: 21
